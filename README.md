@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I'm Saadia , 
+- 🌱 I’m a trainee Software developer at Code Your Future
+- 🔭 I’m currently working on amazing projects 🤩 with Code Your Future
+- 🌱 I’m currently learning ReactJS, JS, Postresql ..
 <!--
 **SaadiaELF/SaadiaELF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
