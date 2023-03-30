@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saadiaelfekak@gmail.com**
 
-- ⚡ Fun fact **I like bugs 🐛 🐞 **
+- ⚡ Fun fact **I like bugs 🐛 🐞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
