@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Tailwind CSS , React**
+- 🌱 I’m currently learning **Tailwind CSS , Next.js**
 
-- 👨‍💻 All of my projects are available at Coming soon ...
+- 👨‍💻 All of my projects are available at **[my portfolio](https://saadia-el-fekak.vercel.app/)** 
 
 - 💬 Ask me about **HTML, CSS, JavaScript , React**
 
