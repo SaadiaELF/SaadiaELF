@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saadia</h1>
 <h3 align="center">A passionate full stack developer based in Birmingham</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working with **Code Your Future**
 
 - 🌱 I’m currently learning **Tailwind CSS , Next.js**
 
