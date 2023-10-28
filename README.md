@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working with **Code Your Future**
 
-- 🌱 I’m currently learning **Tailwind CSS , Next.js**
+- 🌱 I’m currently learning **Mongodb and API testings**
 
 - 👨‍💻 All of my projects are available at **[my portfolio](https://saadia-el-fekak.vercel.app/)** 
 
-- 💬 Ask me about **HTML, CSS, JavaScript , React**
-
 - 📫 How to reach me **saadiaelfekak@gmail.com**
 
-- ⚡ Fun fact **I like bugs 🐛 🐞**
+- ⚡ Fun fact **I like bugs 🐛 🐞** (coding bugs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
