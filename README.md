@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **Code Your Future**
 
-- 🌱 I’m currently learning **Mongodb and API testings**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at **[my portfolio](https://saadia-el-fekak.vercel.app/)** 
 
